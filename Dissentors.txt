@@ -3,7 +3,7 @@
 Jarik scratched an itch just under his left arm, a nervous tick that happened before every plan was put into action.  He had allowed Cray to work today’s plan out by himself and wasn’t let down with the result.  This one was simple, Wick would sneak in get the keys from the guard sitting outside the door just ahead, climb up the stairs and then toss them down to Kodden and Lowen who would go in the back.
 “Something on your mind?”, said Cray.
 “What makes you say that?” said Jarik wincing.
-“You are doing it again.”
+“You’re doing it again.”
 “What?”
 “Itching.”
 “Oh yeah... I just wish I could be there with them, I’m almost as good as Lowen with a Bow, and could handle anyone in there with a sword just about like Kodden.”
@@ -12,7 +12,8 @@ Jarik scratched an itch just under his left arm, a nervous tick that happened be
 “Something always goes wrong, but those three can handle it.  Look, there they go now.”
 …
 
-Wick slowly eased up on the Guard, the key to remaining unseen was in being patient.  Move too quickly and even the air being disturbed around you was enough to tip a man of your presence.  Remaining unseen was as simple to Wick as breathing, the guard was missing his keys, wallet, and hat before he finally discover something was up and Wick had to knock him out.  Pick-pocketing is part of the job, and this chap won’t miss none of this money where he’s goin.  I don’t think he’ll get a chance to post bail anyway.  
+Wick slowly eased up on the Guard, the key to remaining unseen was in being patient.  Move too quickly and even the air being disturbed around you was enough to tip a man of your presence.  Remaining unseen was as simple to Wick as breathing, the guard was missing his keys, wallet, and hat before he finally discover something was up and Wick had to knock him out.  Pick-pocketing is part of the job, and this chap won’t miss none of this money where he’s goin.  I don’t think he’ll get a chance to post bail anyway.
+
 Wick eased his way through the front door and tiptoed up the wooden stairs with only a slight whooshing sound as he crested the top.  Now up on the bulwark he easily slipped around to the far side moving opposite the watch who had made the unfortunate mistake of keeping watch by walking in a group chatting, and going around and around the perimeter in a counterclockwise rotation.  He reached the designated spot and tossed the keys over the edge.  Now I gotta get somethin to eat before I make my way to our exit.
 ...
 
@@ -24,7 +25,8 @@ There was a twinkle as the keys fell to the ground, only to be snatched out of t
 
 ...
 
-Lowen nocked another arrow with a lethargic but practiced movement, this was proving to be even more boring than he had first thought.  Storm an outpost they said, it will be fun they said.  Well three shots was hardly worthy of being called fun.  Kodden already got to swing his sword like ten times, although with not quite so much success as Lowen did.  When Lowen shot the men didn’t get back up, but Kodden had a thing for letting people rot in prison instead of ten feet in the ground.  Yeah right, when someone comes at me sword swinging, that becomes a need real fast.  So far the alarm hadn’t even been sounded yet.  That happened more and more often it seemed, they were getting better but it seemed that the missions got more and more boring as a consequence.  
+Lowen nocked another arrow with a lethargic but practiced movement, this was proving to be even more boring than he had first thought.  Storm an outpost they said, it will be fun they said.  Well three shots was hardly worthy of being called fun.  Kodden already got to swing his sword like ten times, although with not quite so much success as Lowen did.  When Lowen shot the men didn’t get back up, but Kodden had a thing for letting people rot in prison instead of ten feet in the ground.  Yeah right, when someone comes at me sword swinging, that becomes a need real fast.  
+So far the alarm hadn’t even been sounded yet.  That happened more and more often it seemed, they were getting better but it seemed that the missions got more and more boring as a consequence.  
 A helmeted head popped up between two crenelations in the wall trying to find the concealed sniper.  Lowen smiled,  this had been the fourth time that this particular head had appeared and already Lowen had discovered the pattern the man was following.  After seeing his comrades fall, this man ducked down, moved over exactly three paces before he popped up to continue his search once more.  
 Lowen let out a pent up breath, oh well, I guess I've toyed with him long enough.  He counted to three and drew, took aim on an empty gap in the crenelations to his left and released.  The man’s head popped up just as the arrow found the gap.  Well looks like my job here is done.
 
@@ -44,17 +46,17 @@ Finally regaining his composure the prisoner replied, “Yes, who are you?”
 
 Four men burst through the back door and two slid lithely down the rope leading to where Jarik and Cray were waiting.  The same couldn’t be said for the king’s brother, as lithe was not a word to describe the man.  Rather plump would be a better fit as he bobbed the ten feet down to the others.  Kodden followed last, soaring down the rope and sending the earth shaking as he landed.  
 
-“Jeez Kodden, if they didn’t know we were here before, they do now”, glared Lowen
+	“Jeez Kodden, if they didn’t know we were here before, they do now”, glared Lowen
 Kodden just smiled, like most blacksmiths sons Kodden’s muscled figure was something to be envied. 
-“I thought Victor would be with you?”,The king’s brother said struggling for breath.
-“He would, but he was urgently called away, and besides he wasn’t needed here”, said Jarik.
-“Not for us anyway”, snickered Lowen.
-“Is the king sick, can Victor help him?” asked the king’s brother.
-“The king is fine other than those dreams and those blasted tests he keeps giving us,”  The man’s face softened visibly, as Jarik continued to reassure him.  “My wife is having our first son and the time came a little earlier than we thought, so naturally I asked that Victor attend to her at home.”
-“Well look who's been busy,” laughed Lowen, “I guess now we know who ... wait how do you know it’s a boy?”
+	“I thought Victor would be with you?”,The king’s brother said struggling for breath.
+	“He would, but he was urgently called away, and besides he wasn’t needed here”, said Jarik.
+	“Not for us anyway”, snickered Lowen.
+	“Is the king sick, can Victor help him?” asked the king’s brother.
+	“The king is fine other than those dreams and those blasted tests he keeps giving us,”  The man’s face softened visibly, as Jarik continued to reassure him.  “My wife is having our first son and the time came a little earlier than we thought, so naturally I asked that Victor attend to her at home.”
+	“Well look who's been busy,” laughed Lowen, “I guess now we know who ... wait how do you know it’s a boy?”
 “I just have a feeling”, smiled Jarik 
 “I don’t mean to be rude but we better get out of here while we still can” said Cray
-“Sounds good to me!” they chorused.
+	“Sounds good to me!” they chorused.
 
 …
 
@@ -67,32 +69,34 @@ When they finally reached the King’s wing of the castle the steward kindly inf
 After a few moments with no reply from Jarik, Cray spoke up, “Yes quite, your majesty.  The mission couldn’t have gone better ... and you are looking well your majesty.”
 “Yes very well I’m glad things went well but please come in, we have important matters to discuss.” The king said gesturing through the door.  “And make sure we are not disturbed!” the king said to the steward.
 Jarik snapped out of his thoughts started, “About your brother sire, he -”
-“Oh never mind about my brother, we have bigger things to discuss”, said Devon.
-“What kind of-” started Cray.
-‘Oh never mind, just sit down in the corner and keep quite while the grownups talk.” the King spat at Cray as he closed the door.
+	“Oh never mind about my brother, we have bigger things to discuss”, said Devon.
+	“What kind of-” started Cray.
+	“Oh never mind, just sit down in the corner and keep quite while the grownups talk.” the King spat at Cray as he closed the door.
 Cray hesitantly walked to the indicated corner and sat in a cushioned seat, face going red and fists clenching.  He was older than Jarik by almost three years, and of noble birth unlike Jarik whose pedigree was unknown.  He sat seething as he wondered how it was that Jarik found favor in the sight of the King while he was still being cast aside.  
 
 Taken aback Jarik replied, “Well that was certainly unexpected, you sounded so urgent when you sent us on this mission?”
-“Yes but things have changed, I know things now that need to be done immediately if my kingdom is going to last.”  The smile slowly fell from the king’s lips and his eyes fell for a few moments.  “I need you to do something for me Jarik, you have never let me down before, and I know I can trust you with this.”  
+	“Yes but things have changed, I know things now that need to be done immediately if my kingdom is going to last.”  The smile slowly fell from the king’s lips and his eyes fell for a few moments.  “I need you to do something for me Jarik, you have never let me down before, and I know I can trust you with this.”  
 There was a questioning looking in King Devon’s eyes that Jarik didn’t like.
-“What is going on my Lord?”
-“Those dreams I have been having finally make sense.  That woman who you saw leave just now, she was able to interpret them for me.”
+	“What is going on my Lord?”
+	“Those dreams I have been having finally make sense.  That woman who you saw leave just now, she was able to interpret them for me.”
 Jarik’s eyebrows rose in recognition as he recalled the woman as the soothsayer from the small hut just north of the castle.
-“Sire you can’t really believe that she receives this revelation from God as she claims?”
-“No Jarik, I believe her, she says that unless we do something that the kingdom will be taken from me.”
+	“Sire you can’t really believe that she receives this revelation from God as she claims?”
+	“No Jarik, I believe her, she says that unless we do something that the kingdom will be taken from me.”
 Jarik’s eyebrows rose even higher, there had been more rebels as evidenced by the capture of the king’s brother but nothing as large as the king made it out to be.
 
-“You really think that these ruffians and outlaws are going to overthrow the kingdom, there were less than twenty men at that last outpost who -”
-“I’m not worried about them Jarik … There are others who could be potentially dangerous if left alive.  I assume you are familiar with the prophecy of the dissenter?” 
-“Of course, who isn’t?”  
+	“You really think that these ruffians and outlaws are going to overthrow the kingdom, there were less than twenty men at that last outpost who -”
+	“I’m not worried about them Jarik … There are others who could be potentially dangerous if left alive.  I assume you are familiar with the prophecy of the dissenter?” 
+	“Of course, who isn’t?”  
 The conversation halted for a moment while Devon’s hand moved in a searching circular motion.  
-“Aaaand?”
+	“Aaaand?”
 Eyes figuratively rolling, Jarik expounded with a sigh, “Sooo the kingdom falls into discord, and one rises to overthrow the king, yadda yadda, brings stability back to the kingdom, blah, blah, blah, and everyone who was hurt is happy again.”
+
 Jarik gave the king a withering look, daring him to seek further explanation.
+
 The king nodded satisfied, “Exactly, the soothsayer says my dreams indicate the starting point of that prophecy...  Blast it! Jarik this is MY Kingdom!”
- Again there was silence as Devon’s face returned from a bright red to his natural tone.  Facing Jarik, the king met his eyes, and a grim, almost wincing smile touched his lips.  “Jarik I need you to go to the infirmary in Weathersfield and dispose of any child who was born this morning.  Ensure that parents are compensated for their loss and -”
+ Again there was silence as Devon’s face returned from a bright red to his natural tone.  Facing Jarik, the king met his eyes, and a grim, almost wincing smile touched his lips. 	 “Jarik I need you to go to the infirmary in Weathersfield and dispose of any child who was born this morning.  Ensure that parents are compensated for their loss and -”
 Thoughts raced through Jarik’s mind as he lost track of what the king was saying.  What?  Is he serious... or is this yet another test?  Once he had processed these thoughts his attention returned to the king.
-“- and I have to protect it from anyone that stands in the way of God given right to rule!”
+	“- and I have to protect it from anyone that stands in the way of God given right to rule!”
 Silence hung in the room as a decision solidified in Jarik’s mind.  Definitely a test.  
 Jarik finally broke the silence, “I can’t do what you ask my Lord, for what you ask is wrong.”  He slowly walked toward the door, pulled it open and walked out as he had done with each of the tests before.
 A deep frown spread over the Kings face as he whispered at Jarik’s back, “If you won’t, then I’ll find someone who will,” then his eyes drifted to Cray still sitting, dumbfounded in the corner.
@@ -113,12 +117,17 @@ Jarik smiled as they made their way down a set of spiral stairs, I knew it was a
 Time seemed to stop as Jarik spun around and locked eyes with the older man and the smile disappeared from Victor’s face, “Something wrong?” 
 “Did you say... Weathersfield?”
 The sound of heavy footsteps and jingling armor echoed from above.  The blood drained from Jarik’s face.  That was no test.  
-“Victor! take my family to my brother Tom’s farm in Eston!”
+“Take my family to my brother Tom’s farm in Eston!”
 “Jarik, what is going- “
-“Just Go now!”
+“Victor, there isn’t time!  Just remember Tom Swiften in Eston got it?”
+“Yeah, but?”
+“Just Go! ... now!”
 Victor bolted down the remaining steps and grabbed the reins of his prized horse from the hitching post as the stable boy bounded backward from the rearing horse.  In an instant Victor was on his hose and away at a gallop.
-Jarik noticed through the doorway that a contingent of mounted soldiers were already making their way through the portcullis.  Victor will make it, He thought with confidence.   The footsteps were drawing nearer but, he noted with satisfaction that Victor was already gaining on them and would soon overtake them.  His attention was diverted however as the footfalls stopped behind him and Cray stood ready and spoke:
-“Jarik Swiften, you are under arrest for insubordination and treason”.
+
+Jarik noticed through the doorway that a contingent of mounted soldiers were already making their way through the portcullis.  Victor will make it, He thought with confidence.  The footsteps were drawing nearer but, he noted with satisfaction that Victor was already gaining on the horsemen, and would soon overtake them.  His attention was diverted however as the footfalls stopped behind him and Cray stood and spoke:
+	“Jarik Swiften, you are under arrest for insubordination and treason”.
 
 
 
+Chapter 1
+	Jared ...
